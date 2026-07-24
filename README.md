@@ -34,7 +34,7 @@ python -m http.server 8000
 ├── assets/
 │   ├── css/style.css     # design system complet
 │   └── js/main.js        # navigation, galerie, lightbox, accordéon, formulaires
-└── public/               # photographies de l'établissement
+└── images/               # photographies de l'établissement
 ```
 
 ## Fonctionnalités
