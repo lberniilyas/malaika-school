@@ -1,0 +1,12 @@
+# Temp / scratch
+_peek.html
+_diag.html
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
